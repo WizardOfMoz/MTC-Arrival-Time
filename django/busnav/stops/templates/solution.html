@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h4>Number of arrivals:</h4>
+      <br/>
+      <h3>{{count}}</h3>
+<table class="table">
+  <thead>
+    <tr>
+     
+      <th scope="col">Route ID</th>
+      <th scope="col">Arrival Time</th>
+    </tr>
+  </thead>
+  <tbody>
+      {% for i,j in  data %}
+    <tr>
+      <td>{{i}}</td>
+      <td>{{j}}</td>
+     
+    </tr>
+      {% endfor %}
+      
+  </tbody>
+</table>
+{% endblock %} 
