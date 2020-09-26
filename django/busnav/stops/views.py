@@ -7,24 +7,52 @@ def home(request):
             screenname = request.POST.get("handle", None)
             
             
-            stop = pd.read_csv('data/stop_times.txt', low_memory=False)     #find csv file in the path data/stop_times.txt and convert it to panda table. 
-            stop_name=pd.read_csv('data/stops.txt', low_memory=False)       #I am only using stop_times.txt and stops.txt in the MTC zip file. So you need not use the zip file 
-            arrival=pd.merge(stop,stop_name,on="stop_id")                   #Merge the 2 panda tables on the basis of common attribute stop_id
-            grouped=arrival.groupby("stop_name")
-            st=screenname                                 #st is the stop name entered by user
-            group=grouped.get_group(st)
+            MTCstop = pd.read_csv('MTCdata/stop_times.txt', low_memory=False)
+            MTCstop_name=pd.read_csv('MTCdata/stops.txt', low_memory=False)
+            MTCroute=pd.read_csv('MTCdata/trips.txt', low_memory=False)
+            MTCroutename=pd.read_csv('MTCdata/routes.txt', low_memory=False)
+            MTCarrival=pd.merge(MTCstop,MTCstop_name,on="stop_id")
+            MTCarrival=pd.merge(MTCarrival,MTCroute,on="trip_id")
+            MTCarrival=pd.merge(MTCarrival,MTCroutename,on="route_id")
+            MTCgrouped=MTCarrival.groupby("stop_name")
+
+
+            CRMLstop = pd.read_csv('CRMLdata/stop_times.txt', low_memory=False)
+            CRMLstop_name=pd.read_csv('CRMLdata/stops.txt', low_memory=False)
+            CRMLroute=pd.read_csv('CRMLdata/trips.txt', low_memory=False)
+            CRMLroutename=pd.read_csv('CRMLdata/routes.txt', low_memory=False)
+            CRMLarrival=pd.merge(CRMLstop,CRMLstop_name,on="stop_id")
+            CRMLarrival=pd.merge(CRMLarrival,CRMLroute,on="trip_id")
+            CRMLarrival=pd.merge(CRMLarrival,CRMLroutename,on="route_id")
+            CRMLgrouped=CRMLarrival.groupby("stop_name")
+
+            st=screenname
+            r=""
+            if st in MTCgrouped.groups:
+                group=MTCgrouped.get_group(st)
+                r="MTC"
+
+            else:
+                group=CRMLgrouped.get_group(st)
+                r="CRML"
+
             ctr=0
             ri=[]
             la=[]
+            l=[]
             for i in range(len(group)) :
                 
                 if check(group.iloc[i].arrival_time):   
-                    s=group.iloc[i].trip_id
-                    s=s.split("_")
-                    ri+=[s[0]]
-                    la+=[group.iloc[i].arrival_time]
+                    tm=group.iloc[i].arrival_time
+                    ti=tm.split(":")
+                    tm=datetime.time(int(ti[0])%24,int(ti[1]),int(ti[2]))
+                    l.append([r+" "+str(group.iloc[i].route_long_name),tm])
                     ctr+=1
+            l = sorted(l, key=lambda x: x[1])
             print("No of arrivals :"+str(ctr))
+            for i in range(len(l)): 
+                ri.append(l[i][0])
+                la.append(l[i][1])
             print(ri)
             print(la)
             return render(request,'solution.html',{'data':zip(ri,la),'count':ctr})
@@ -35,7 +63,7 @@ def home(request):
 
 def check(s):                                   #checks whether bus arrival time is within the next 30 minutes
     t1=datetime.datetime.now()
-    t2=t1+datetime.timedelta(seconds=1800)
+    t2=t1+datetime.timedelta(seconds=3600)
     t1=t1.time()
     t2=t2.time()
     s=s.split(":")
