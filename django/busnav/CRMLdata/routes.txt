@@ -1,0 +1,8 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+17201,SCC-SMM,Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro - St.Thomas Mount,,1,00A700,000000
+24217,SMM-SCC,St.Thomas Mount - Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro,,1,00A700,000000
+23117,SAP-SCC,Airport - Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro,,1,,
+02201,SCC-SAP,Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro - Airport,,1,,
+86117,SAP-SWA,Airport - Washermenpet Metro,,1,000092,FFFFFF
+01101,SWA-SAP, Washermenpet Metro - Airport,,1,000092,FFFFFF
+85117,SAP-SWA,Airport - Washermenpet Metro,,1,000092,FFFFFF

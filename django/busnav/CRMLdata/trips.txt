@@ -1,0 +1,464 @@
+route_id,service_id,trip_id,trip_headsign,shape_id
+02201,WD,WD020101,Airport,sh13
+23117,WD,WD230102,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020103,Airport,sh13
+23117,WD,WD230104,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020105,Airport,sh13
+23117,WD,WD230106,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020107,Airport,sh13
+23117,WD,WD230108,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020109,Airport,sh13
+23117,WD,WD230110,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020111,Airport,sh13
+23117,WD,WD230112,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020113,Airport,sh13
+23117,WD,WD230114,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020115,Airport,sh13
+23117,WD,WD230116,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020117,Airport,sh13
+23117,WD,WD230118,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+24217,WD,WD240201,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD170202,St.Thomas Mount,sh7
+24217,WD,WD240203,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD170204,St.Thomas Mount,sh7
+24217,WD,WD240205,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+86117,WD,WD860301,Washermenpet Metro,sh12
+01101,WD,WD010302,Airport,sh11
+86117,WD,WD860303,Washermenpet Metro,sh12
+01101,WD,WD010304,Airport,sh11
+86117,WD,WD860305,Washermenpet Metro,sh12
+01101,WD,WD010306,Airport,sh11
+86117,WD,WD860307,Washermenpet Metro,sh12
+01101,WD,WD010308,Airport,sh11
+86117,WD,WD860309,Washermenpet Metro,sh12
+01101,WD,WD010310,Airport,sh11
+86117,WD,WD860311,Washermenpet Metro,sh12
+01101,WD,WD010312,Airport,sh11
+86117,WD,WD860313,Washermenpet Metro,sh12
+01101,WD,WD010314,Airport,sh11
+86117,WD,WD860315,Washermenpet Metro,sh12
+01101,WD,WD010316,Airport,sh11
+86117,WD,WD860317,Washermenpet Metro,sh12
+01101,WD,WD010318,Airport,sh11
+86117,WD,WD860319,Washermenpet Metro,sh12
+23117,WD,WD230401,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020402,Airport,sh13
+23117,WD,WD230403,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020404,Airport,sh13
+23117,WD,WD230405,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020406,Airport,sh13
+23117,WD,WD230407,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020408,Airport,sh13
+23117,WD,WD230409,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020410,Airport,sh13
+23117,WD,WD230411,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020412,Airport,sh13
+23117,WD,WD230413,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020414,Airport,sh13
+23117,WD,WD230415,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020416,Airport,sh13
+23117,WD,WD230417,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+17201,WD,WD170501,St.Thomas Mount,sh7
+24217,WD,WD240502,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD170503,St.Thomas Mount,sh7
+24217,WD,WD240504,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD170505,St.Thomas Mount,sh7
+01101,WD,WD010601,Airport,sh11
+86117,WD,WD860602,Washermenpet Metro,sh12
+01101,WD,WD010603,Airport,sh11
+86117,WD,WD860604,Washermenpet Metro,sh12
+01101,WD,WD010605,Airport,sh11
+86117,WD,WD860606,Washermenpet Metro,sh12
+01101,WD,WD010607,Airport,sh11
+86117,WD,WD860608,Washermenpet Metro,sh12
+01101,WD,WD010609,Airport,sh11
+86117,WD,WD860610,Washermenpet Metro,sh12
+01101,WD,WD010611,Airport,sh11
+86117,WD,WD860612,Washermenpet Metro,sh12
+01101,WD,WD010613,Airport,sh11
+86117,WD,WD860614,Washermenpet Metro,sh12
+01101,WD,WD010615,Airport,sh11
+86117,WD,WD860616,Washermenpet Metro,sh12
+01101,WD,WD010617,Airport,sh11
+86117,WD,WD860618,Washermenpet Metro,sh12
+01101,WD,WD010619,Airport,sh11
+86117,WD,WD860701,Washermenpet Metro,sh12
+01101,WD,WD010702,Airport,sh11
+86117,WD,WD860703,Washermenpet Metro,sh12
+01101,WD,WD010704,Airport,sh11
+86117,WD,WD860705,Washermenpet Metro,sh12
+01101,WD,WD010706,Airport,sh11
+86117,WD,WD860707,Washermenpet Metro,sh12
+01101,WD,WD010708,Airport,sh11
+86117,WD,WD860709,Washermenpet Metro,sh12
+01101,WD,WD010710,Airport,sh11
+86117,WD,WD860711,Washermenpet Metro,sh12
+01101,WD,WD010712,Airport,sh11
+86117,WD,WD860713,Washermenpet Metro,sh12
+01101,WD,WD010714,Airport,sh11
+86117,WD,WD860715,Washermenpet Metro,sh12
+01101,WD,WD010716,Airport,sh11
+86117,WD,WD860717,Washermenpet Metro,sh12
+01101,WD,WD010718,Airport,sh11
+86117,WD,WD860719,Washermenpet Metro,sh12
+02201,WD,WD020801,Airport,sh13
+23117,WD,WD230802,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020803,Airport,sh13
+23117,WD,WD230804,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020805,Airport,sh13
+23117,WD,WD230806,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020807,Airport,sh13
+23117,WD,WD230808,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020809,Airport,sh13
+23117,WD,WD230810,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020811,Airport,sh13
+23117,WD,WD230812,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020813,Airport,sh13
+23117,WD,WD230814,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020815,Airport,sh13
+23117,WD,WD230816,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD020817,Airport,sh13
+01101,WD,WD010901,Airport,sh11
+86117,WD,WD860902,Washermenpet Metro,sh12
+01101,WD,WD010903,Airport,sh11
+86117,WD,WD860904,Washermenpet Metro,sh12
+01101,WD,WD010905,Airport,sh11
+86117,WD,WD860906,Washermenpet Metro,sh12
+01101,WD,WD010907,Airport,sh11
+86117,WD,WD860908,Washermenpet Metro,sh12
+01101,WD,WD010909,Airport,sh11
+86117,WD,WD860910,Washermenpet Metro,sh12
+01101,WD,WD010911,Airport,sh11
+86117,WD,WD860912,Washermenpet Metro,sh12
+01101,WD,WD010913,Airport,sh11
+86117,WD,WD860914,Washermenpet Metro,sh12
+01101,WD,WD010915,Airport,sh11
+86117,WD,WD860916,Washermenpet Metro,sh12
+01101,WD,WD010917,Airport,sh11
+24217,WD,WD241001,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171002,St.Thomas Mount,sh7
+24217,WD,WD241003,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171004,St.Thomas Mount,sh7
+24217,WD,WD241005,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+86117,WD,WD861101,Washermenpet Metro,sh12
+01101,WD,WD011102,Airport,sh11
+86117,WD,WD861103,Washermenpet Metro,sh12
+01101,WD,WD011104,Airport,sh11
+86117,WD,WD861105,Washermenpet Metro,sh12
+01101,WD,WD011106,Airport,sh11
+86117,WD,WD861107,Washermenpet Metro,sh12
+01101,WD,WD011108,Airport,sh11
+86117,WD,WD861109,Washermenpet Metro,sh12
+01101,WD,WD011110,Airport,sh11
+86117,WD,WD861111,Washermenpet Metro,sh12
+01101,WD,WD011112,Airport,sh11
+86117,WD,WD861113,Washermenpet Metro,sh12
+01101,WD,WD011114,Airport,sh11
+86117,WD,WD861115,Washermenpet Metro,sh12
+01101,WD,WD011116,Airport,sh11
+86117,WD,WD861117,Washermenpet Metro,sh12
+23117,WD,WD231201,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021202,Airport,sh13
+23117,WD,WD231203,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021204,Airport,sh13
+23117,WD,WD231205,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021206,Airport,sh13
+23117,WD,WD231207,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021208,Airport,sh13
+23117,WD,WD231209,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021210,Airport,sh13
+23117,WD,WD231211,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021212,Airport,sh13
+23117,WD,WD231213,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021214,Airport,sh13
+23117,WD,WD231215,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021216,Airport,sh13
+23117,WD,WD231217,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+17201,WD,WD171301,St.Thomas Mount,sh7
+24217,WD,WD241302,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171303,St.Thomas Mount,sh7
+24217,WD,WD241304,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171305,St.Thomas Mount,sh7
+24217,WD,WD241306,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171307,St.Thomas Mount,sh7
+24217,WD,WD241308,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171309,St.Thomas Mount,sh7
+24217,WD,WD241310,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171311,St.Thomas Mount,sh7
+24217,WD,WD241312,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171313,St.Thomas Mount,sh7
+24217,WD,WD241314,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171315,St.Thomas Mount,sh7
+24217,WD,WD241316,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171317,St.Thomas Mount,sh7
+01101,WD,WD011401,Airport,sh11
+86117,WD,WD861402,Washermenpet Metro,sh12
+01101,WD,WD011403,Airport,sh11
+86117,WD,WD861404,Washermenpet Metro,sh12
+01101,WD,WD011405,Airport,sh11
+86117,WD,WD861406,Washermenpet Metro,sh12
+01101,WD,WD011407,Airport,sh11
+86117,WD,WD861408,Washermenpet Metro,sh12
+01101,WD,WD011409,Airport,sh11
+86117,WD,WD861410,Washermenpet Metro,sh12
+01101,WD,WD011411,Airport,sh11
+86117,WD,WD861412,Washermenpet Metro,sh12
+01101,WD,WD011413,Airport,sh11
+86117,WD,WD861414,Washermenpet Metro,sh12
+01101,WD,WD011415,Airport,sh11
+86117,WD,WD861416,Washermenpet Metro,sh12
+01101,WD,WD011417,Airport,sh11
+86117,WD,WD861418,Washermenpet Metro,sh12
+01101,WD,WD011419,Airport,sh11
+86117,WD,WD861501,Washermenpet Metro,sh12
+01101,WD,WD011502,Airport,sh11
+86117,WD,WD861503,Washermenpet Metro,sh12
+01101,WD,WD011504,Airport,sh11
+86117,WD,WD861505,Washermenpet Metro,sh12
+01101,WD,WD011506,Airport,sh11
+86117,WD,WD861507,Washermenpet Metro,sh12
+01101,WD,WD011508,Airport,sh11
+86117,WD,WD861509,Washermenpet Metro,sh12
+01101,WD,WD011510,Airport,sh11
+86117,WD,WD861511,Washermenpet Metro,sh12
+01101,WD,WD011512,Airport,sh11
+86117,WD,WD861513,Washermenpet Metro,sh12
+01101,WD,WD011514,Airport,sh11
+86117,WD,WD861515,Washermenpet Metro,sh12
+01101,WD,WD011516,Airport,sh11
+86117,WD,WD861517,Washermenpet Metro,sh12
+02201,WD,WD021601,Airport,sh13
+23117,WD,WD231602,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021603,Airport,sh13
+23117,WD,WD231604,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021605,Airport,sh13
+23117,WD,WD231606,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021607,Airport,sh13
+23117,WD,WD231608,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021609,Airport,sh13
+23117,WD,WD231610,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021611,Airport,sh13
+23117,WD,WD231612,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021613,Airport,sh13
+23117,WD,WD231614,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021615,Airport,sh13
+23117,WD,WD231616,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD021617,Airport,sh13
+01101,WD,WD011701,Airport,sh11
+86117,WD,WD861702,Washermenpet Metro,sh12
+01101,WD,WD011703,Airport,sh11
+86117,WD,WD861704,Washermenpet Metro,sh12
+01101,WD,WD011705,Airport,sh11
+86117,WD,WD861706,Washermenpet Metro,sh12
+01101,WD,WD011707,Airport,sh11
+86117,WD,WD861708,Washermenpet Metro,sh12
+01101,WD,WD011709,Airport,sh11
+86117,WD,WD861710,Washermenpet Metro,sh12
+01101,WD,WD011711,Airport,sh11
+86117,WD,WD861712,Washermenpet Metro,sh12
+01101,WD,WD011713,Airport,sh11
+86117,WD,WD861714,Washermenpet Metro,sh12
+01101,WD,WD011715,Airport,sh11
+86117,WD,WD861716,Washermenpet Metro,sh12
+01101,WD,WD011717,Airport,sh11
+86117,WD,WD861718,Washermenpet Metro,sh12
+24217,WD,WD241801,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171802,St.Thomas Mount,sh7
+24217,WD,WD241803,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD171804,St.Thomas Mount,sh7
+24217,WD,WD241805,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+86117,WD,WD861901,Washermenpet Metro,sh12
+01101,WD,WD011902,Airport,sh11
+86117,WD,WD861903,Washermenpet Metro,sh12
+01101,WD,WD011904,Airport,sh11
+86117,WD,WD861905,Washermenpet Metro,sh12
+01101,WD,WD011906,Airport,sh11
+86117,WD,WD861907,Washermenpet Metro,sh12
+01101,WD,WD011908,Airport,sh11
+86117,WD,WD861909,Washermenpet Metro,sh12
+01101,WD,WD011910,Airport,sh11
+86117,WD,WD861911,Washermenpet Metro,sh12
+01101,WD,WD011912,Airport,sh11
+86117,WD,WD861913,Washermenpet Metro,sh12
+01101,WD,WD011914,Airport,sh11
+86117,WD,WD861915,Washermenpet Metro,sh12
+01101,WD,WD011916,Airport,sh11
+86117,WD,WD861917,Washermenpet Metro,sh12
+86117,WD,WD862001,Washermenpet Metro,sh12
+01101,WD,WD012002,Airport,sh11
+86117,WD,WD862003,Washermenpet Metro,sh12
+23117,WD,WD232101,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD022102,Airport,sh13
+23117,WD,WD232103,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+86117,WD,WD862201,Washermenpet Metro,sh12
+01101,WD,WD012202,Airport,sh11
+86117,WD,WD862203,Washermenpet Metro,sh12
+17201,WD,WD172301,St.Thomas Mount,sh7
+24217,WD,WD242302,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172303,St.Thomas Mount,sh7
+24217,WD,WD242304,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172305,St.Thomas Mount,sh7
+24217,WD,WD242306,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172307,St.Thomas Mount,sh7
+24217,WD,WD242308,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172309,St.Thomas Mount,sh7
+24217,WD,WD242310,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172311,St.Thomas Mount,sh7
+24217,WD,WD242312,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172313,St.Thomas Mount,sh7
+24217,WD,WD242314,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172315,St.Thomas Mount,sh7
+24217,WD,WD242316,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+01101,WD,WD012401,Airport,sh11
+86117,WD,WD862402,Washermenpet Metro,sh12
+01101,WD,WD012403,Airport,sh11
+02201,WD,WD022501,Airport,sh13
+23117,WD,WD232502,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD022503,Airport,sh13
+24217,WD,WD242601,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172602,St.Thomas Mount,sh7
+24217,WD,WD242603,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172604,St.Thomas Mount,sh7
+24217,WD,WD242605,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172606,St.Thomas Mount,sh7
+24217,WD,WD242607,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172608,St.Thomas Mount,sh7
+24217,WD,WD242609,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172610,St.Thomas Mount,sh7
+24217,WD,WD242611,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172612,St.Thomas Mount,sh7
+24217,WD,WD242613,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172614,St.Thomas Mount,sh7
+24217,WD,WD242615,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD172616,St.Thomas Mount,sh7
+86117,WD,WD862701,Washermenpet Metro,sh12
+01101,WD,WD012702,Airport,sh11
+86117,WD,WD862703,Washermenpet Metro,sh12
+01101,WD,WD012801,Airport,sh11
+86117,WD,WD862802,Washermenpet Metro,sh12
+01101,WD,WD012803,Airport,sh11
+23117,WD,WD232901,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD022902,Airport,sh13
+23117,WD,WD232903,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+86117,WD,WD863001,Washermenpet Metro,sh12
+01101,WD,WD013002,Airport,sh11
+86117,WD,WD863003,Washermenpet Metro,sh12
+17201,WD,WD173101,St.Thomas Mount,sh7
+24217,WD,WD243102,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173103,St.Thomas Mount,sh7
+24217,WD,WD243104,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173105,St.Thomas Mount,sh7
+24217,WD,WD243106,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173107,St.Thomas Mount,sh7
+24217,WD,WD243108,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173109,St.Thomas Mount,sh7
+24217,WD,WD243110,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173111,St.Thomas Mount,sh7
+24217,WD,WD243112,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173113,St.Thomas Mount,sh7
+24217,WD,WD243114,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173115,St.Thomas Mount,sh7
+24217,WD,WD243116,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+01101,WD,WD013201,Airport,sh11
+86117,WD,WD863202,Washermenpet Metro,sh12
+01101,WD,WD013203,Airport,sh11
+02201,WD,WD023301,Airport,sh13
+23117,WD,WD233302,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+24217,WD,WD243401,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173402,St.Thomas Mount,sh7
+24217,WD,WD243403,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173404,St.Thomas Mount,sh7
+24217,WD,WD243405,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173406,St.Thomas Mount,sh7
+24217,WD,WD243407,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173408,St.Thomas Mount,sh7
+24217,WD,WD243409,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173410,St.Thomas Mount,sh7
+24217,WD,WD243411,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173412,St.Thomas Mount,sh7
+24217,WD,WD243413,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173414,St.Thomas Mount,sh7
+24217,WD,WD243415,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173416,St.Thomas Mount,sh7
+86117,WD,WD863501,Washermenpet Metro,sh12
+01101,WD,WD013502,Airport,sh11
+23117,WD,WD233601,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD023602,Airport,sh13
+86117,WD,WD863701,Washermenpet Metro,sh12
+01101,WD,WD013702,Airport,sh11
+17201,WD,WD173801,St.Thomas Mount,sh7
+24217,WD,WD243802,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173803,St.Thomas Mount,sh7
+24217,WD,WD243804,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD173805,St.Thomas Mount,sh7
+02201,WD,WD023901,Airport,sh13
+23117,WD,WD233902,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD023903,Airport,sh13
+23117,WD,WD233904,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+23117,WD,WD234001,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD024002,Airport,sh13
+23117,WD,WD234003,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD024004,Airport,sh13
+86117,WD,WD864101,Washermenpet Metro,sh12
+01101,WD,WD014102,Airport,sh11
+86117,WD,WD864103,Washermenpet Metro,sh12
+01101,WD,WD014104,Airport,sh11
+17201,WD,WD174201,St.Thomas Mount,sh7
+24217,WD,WD244202,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD174203,St.Thomas Mount,sh7
+24217,WD,WD244204,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+01101,WD,WD014301,Airport,sh11
+86117,WD,WD864302,Washermenpet Metro,sh12
+01101,WD,WD014303,Airport,sh11
+86117,WD,WD864304,Washermenpet Metro,sh12
+01101,WD,WD014305,Airport,sh11
+02201,WD,WD024401,Airport,sh13
+23117,WD,WD234402,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD024403,Airport,sh13
+23117,WD,WD234404,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+24217,WD,WD244501,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD174502,St.Thomas Mount,sh7
+24217,WD,WD244503,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD174504,St.Thomas Mount,sh7
+86117,WD,WD864601,Washermenpet Metro,sh12
+01101,WD,WD014602,Airport,sh11
+86117,WD,WD864603,Washermenpet Metro,sh12
+01101,WD,WD014604,Airport,sh11
+01101,WD,WD014701,Airport,sh11
+86117,WD,WD864702,Washermenpet Metro,sh12
+01101,WD,WD014703,Airport,sh11
+86117,WD,WD864704,Washermenpet Metro,sh12
+01101,WD,WD014705,Airport,sh11
+23117,WD,WD234801,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD024802,Airport,sh13
+23117,WD,WD234803,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+86117,WD,WD864901,Washermenpet Metro,sh12
+01101,WD,WD014902,Airport,sh11
+86117,WD,WD864903,Washermenpet Metro,sh12
+01101,WD,WD014904,Airport,sh11
+01101,WD,WD015001,Airport,sh11
+86117,WD,WD865002,Washermenpet Metro,sh12
+01101,WD,WD015003,Airport,sh11
+86117,WD,WD865004,Washermenpet Metro,sh12
+17201,WD,WD175101,St.Thomas Mount,sh7
+24217,WD,WD245102,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD175103,St.Thomas Mount,sh7
+24217,WD,WD245104,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+01101,WD,WD015201,Airport,sh11
+86117,WD,WD865202,Washermenpet Metro,sh12
+01101,WD,WD015203,Airport,sh11
+86117,WD,WD865204,Washermenpet Metro,sh12
+01101,WD,WD015205,Airport,sh11
+02201,WD,WD025301,Airport,sh13
+23117,WD,WD235302,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+02201,WD,WD025303,Airport,sh13
+86117,WD,WD865401,Washermenpet Metro,sh12
+01101,WD,WD015402,Airport,sh11
+86117,WD,WD865403,Washermenpet Metro,sh12
+01101,WD,WD015404,Airport,sh11
+86117,WD,WD865405,Washermenpet Metro,sh12
+86117,WD,WD865501,Washermenpet Metro,sh12
+01101,WD,WD015502,Airport,sh11
+86117,WD,WD865503,Washermenpet Metro,sh12
+01101,WD,WD015504,Airport,sh11
+86117,WD,WD865505,Washermenpet Metro,sh12
